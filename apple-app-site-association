@@ -1,0 +1,20 @@
+{
+    "webcredentials": {
+        "apps": [
+            "G2V3NK3VC4.com.7peakssoftware.SevenPeaksLibDemo"
+        ]
+    },
+    "applinks": {
+        "apps": [
+            "G2V3NK3VC4.com.7peakssoftware.SevenPeaksLibDemo"
+        ],
+        "details": [
+            {
+                "appID": "G2V3NK3VC4.com.7peakssoftware.SevenPeaksLibDemo",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
